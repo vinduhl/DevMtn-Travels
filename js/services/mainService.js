@@ -1,4 +1,4 @@
-angular.module('devmtnTravel').service('mainSrv', function(){
+app.service('mainSrv', function(){
 
     this.travelInfo = [{
         city: 'New York',
